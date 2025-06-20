@@ -1,0 +1,27 @@
+   2 python -u "d:\Github-For-DevOps-Workshop\testing.py"
+   3 python testing.py
+   4 ls
+   5 ls -l
+   6 ls -l
+   7 Get-ChildItem | Format-List
+   8 git init
+   9 ls dir
+  10  Get-ChildItem
+  11 ls
+  12 ls -a
+  13 git status
+  14 git add testing.py
+  15 git status
+  16 git rm --cached
+  17 git rm --cached testing.py
+  18 git status
+  19 git add .
+  20 git status
+  21 git commit -m "added testing file"
+  22 git status
+  23 rm testing.py
+  24 git status
+  25 git restore testing.py
+  26 ls
+  27 git status
+  28 clear
