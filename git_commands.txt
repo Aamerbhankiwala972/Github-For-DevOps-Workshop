@@ -25,3 +25,5 @@
   26 ls
   27 git status
   28 clear
+
+  29 git clone url
